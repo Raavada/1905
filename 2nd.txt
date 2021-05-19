@@ -1,1 +1,2 @@
 secondfile
+new second
